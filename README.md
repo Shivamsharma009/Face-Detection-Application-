@@ -1,4 +1,4 @@
-# Face-Recoginization-Application-
+# Face-Recoginization-Application-Using Machine Learning Algorithms
 
 ![FR](https://user-images.githubusercontent.com/46878145/71646992-76f13780-2ca4-11ea-9fd6-e50efd78bd6e.png)
 
